@@ -6,15 +6,14 @@ nav_order: 1
 
 # Police Killings and Police Involved Deaths in Canada
 
-<img src='docs/Annual.png'>
+
+## Content Warning
+
+This data deals with a difficult and painful subject may be triggering to some, especially BIPOC individuals.
 
 
-<img src='docs/Distribtution.png'>
+### About the database
 
+This dataset was compiled by June Skeeter: june.skeeter@ubc.ca
 
-
-<img src='docs/Kiling_Rate_by_Prov.png'>
-
-potats
-
-cotats
+The Canadian Police Killing and Police Involved Deaths data can be accessed [here](https://github.com/PoliceKillingsandInolvedDeathsCanada/Data/tree/main/MostRecentUpdate).

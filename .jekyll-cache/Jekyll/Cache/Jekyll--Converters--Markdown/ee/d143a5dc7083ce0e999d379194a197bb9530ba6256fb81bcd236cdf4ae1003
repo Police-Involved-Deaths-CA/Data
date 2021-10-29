@@ -1,0 +1,42 @@
+I"m<h1 class="no_toc" id="acknowledgements--introductions">Acknowledgements &amp; Introductions</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#notes-on-terminology" id="markdown-toc-notes-on-terminology">Notes on Terminology</a></li>
+  <li><a href="#deadly-force" id="markdown-toc-deadly-force">Deadly Force</a></li>
+</ol>
+
+</details>
+
+<h1 id="notes-on-terminology">Notes on Terminology</h1>
+
+<p><strong>Police Killing:</strong> A death directly resulting from police use of force.  Including but not limited to: shooting, tazing, other use of force.</p>
+
+<p><strong>Police-Involved Deaths</strong>  Any civilian death at the hands of police or in the custody of police.  Includes police killings deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.</p>
+
+<h1 id="deadly-force">Deadly Force</h1>
+
+<p>The most comprehensive publicly available dataset on police killings in Canada is the <a href="https://newsinteractives.cbc.ca/fatalpoliceencounters/">Deadly Force database</a> was collected by the Canadian Boradcast Corporation (CBC).  Initally published in 2018, it was updated July 23, 2020.</p>
+
+<ul>
+  <li><em>“There is no government database listing deaths at the hands of the police available to the public in Canada, so CBC News created its own. The CBC’s research librarians have collected detailed information on each case, such as ethnicity, the role of mental illness or substance abuse, the type of weapon used and the police service involved, to create a picture of who is dying in police encounters.”</em></li>
+</ul>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="images/deadlyforce.png" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="images/deadlyforce.png" target="_blank">View Image in New Tab</a></p>
+
+:ET

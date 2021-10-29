@@ -1,0 +1,333 @@
+I"�I<h1 class="no_toc" id="acknowledgements--introductions">Acknowledgements &amp; Introductions</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#notes-on-terminology" id="markdown-toc-notes-on-terminology">Notes on Terminology</a></li>
+  <li><a href="#deadly-force" id="markdown-toc-deadly-force">Deadly Force</a>    <ol>
+      <li><a href="#lack-of-access-and-transparency" id="markdown-toc-lack-of-access-and-transparency">Lack of Access and Transparency</a></li>
+    </ol>
+  </li>
+  <li><a href="#the-cbc-dataset-is-highly-flawed" id="markdown-toc-the-cbc-dataset-is-highly-flawed">The CBC Dataset is Highly Flawed</a></li>
+  <li><a href="#looking-to-the-united-states" id="markdown-toc-looking-to-the-united-states">Looking to the United States</a></li>
+  <li><a href="#expanding-the-dataset-and-filling-gaps" id="markdown-toc-expanding-the-dataset-and-filling-gaps">Expanding the Dataset and Filling Gaps</a>    <ol>
+      <li><a href="#1-killings-by-off-duty--ex-police-officers" id="markdown-toc-1-killings-by-off-duty--ex-police-officers">1) Killings by off-duty &amp; ex police officers</a></li>
+      <li><a href="#2-deaths-from-negligence-incompetence" id="markdown-toc-2-deaths-from-negligence-incompetence">2) Deaths from Negligence, Incompetence</a></li>
+      <li><a href="#3-deaths-occurring-in-police-custody" id="markdown-toc-3-deaths-occurring-in-police-custody">3) Deaths Occurring in Police Custody</a></li>
+    </ol>
+  </li>
+  <li><a href="#what-other-information-is-available" id="markdown-toc-what-other-information-is-available">What Other Information is Available?</a></li>
+  <li><a href="#validating-updating-and-expanding-the-dataset" id="markdown-toc-validating-updating-and-expanding-the-dataset">Validating, Updating, and Expanding the Dataset</a></li>
+  <li><a href="#advocating-for-accountability-attributing-blame" id="markdown-toc-advocating-for-accountability-attributing-blame">Advocating for Accountability, Attributing Blame</a>    <ol>
+      <li><a href="#police-involved-deaths-by-departments" id="markdown-toc-police-involved-deaths-by-departments">Police-Involved Deaths by Departments</a></li>
+    </ol>
+  </li>
+  <li><a href="#sharing-the-information" id="markdown-toc-sharing-the-information">Sharing the Information</a>    <ol>
+      <li><a href="#ubc-library-research-commons-gis-workshops" id="markdown-toc-ubc-library-research-commons-gis-workshops">UBC Library Research Commons GIS Workshops</a></li>
+    </ol>
+  </li>
+  <li><a href="#publishing-the-data-and-results" id="markdown-toc-publishing-the-data-and-results">Publishing the Data and Results</a></li>
+</ol>
+
+</details>
+
+<h1 id="notes-on-terminology">Notes on Terminology</h1>
+
+<p><strong>Police Killing:</strong> A death directly resulting from police use of force.  Including but not limited to: shooting, tazing, other use of force.</p>
+
+<p><strong>Police-Involved Deaths</strong>  Any civilian death at the hands of police or in the custody of police.  Includes police killings deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.</p>
+
+<h1 id="deadly-force">Deadly Force</h1>
+
+<p>The most comprehensive publicly available dataset on police killings in Canada is the <a href="https://newsinteractives.cbc.ca/fatalpoliceencounters/">Deadly Force database</a> was collected by the Canadian Boradcast Corporation (CBC).  Initially published in 2018, it was updated July 23, 2020.</p>
+
+<ul>
+  <li><em>“There is no government database listing deaths at the hands of the police available to the public in Canada, so CBC News created its own. The CBC’s research librarians have collected detailed information on each case, such as ethnicity, the role of mental illness or substance abuse, the type of weapon used and the police service involved, to create a picture of who is dying in police encounters.”</em></li>
+</ul>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="images/deadlyforce.png" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="images/deadlyforce.png" target="_blank">View Image in New Tab</a></p>
+
+<h2 id="lack-of-access-and-transparency">Lack of Access and Transparency</h2>
+
+<p><a href="https://www.pivotlegal.org/17_years_of_police_violence_in_canada">Pivot Legal</a></p>
+
+<h1 id="the-cbc-dataset-is-highly-flawed">The CBC Dataset is Highly Flawed</h1>
+
+<p>1) The CBC has not: disclosed the specifics of their methodology, defined what qualifies as a police killing or a police-involved death, or provided sources for their data.</p>
+
+<p>2) The data are not regularly updated.  The dataset was initially published in <a href="https://newsinteractives.cbc.ca/longform-custom/deadly-force">2018</a>, but was not updated again for two and a half years. The updates coincided with media attention surrounding the Black Lives Matter protests in summer 2020, and to date the CBC has no plans of updating it further.</p>
+
+<p>3) There are many missing/incomplete records in their data.  The victims’ race is Unknown in 136 incidents, their names are missing in 45 incidents and the cause of death is Unknown in 22 incidents.</p>
+
+<ul>
+  <li>The CBC database has missing incidents entirely, including: <em>at least</em> four shootings, multiple tazings, a death from a police dog, and two <a href="https://www.canadaland.com/podcast/the-police-4-starlight-tours/">starlight tours</a>.  A starlight tour is when police abduct Indigenous individuals and drop them off in rural areas.  When done in the winter, some victims  freeze to death.</li>
+  <li>I asked the CBC why the starlight tour deaths of Rodney Naistus and Lawrence Wegner in January and February 2000 at the hands of the Saskatoon Police were not included in the database.
+    <ul>
+      <li><em>“While their deaths were very likely a result of starlight tours by the Saskatoon police, they were not added to the database because there is no record of police officers picking them up. The inquests into their deaths were also inconclusive. Because of the lack of definitive proof, it was decided not to include them in the database.”</em></li>
+    </ul>
+  </li>
+  <li>Their response highlights why we cannot rely on a news corporation to collect &amp; disseminate this type of information.</li>
+</ul>
+
+<h1 id="looking-to-the-united-states">Looking to the United States</h1>
+<p>A non-profit organization, <a href="https://mappingpoliceviolence.org/">Mapping Police Violence</a>, maintains a database and updates it frequently.</p>
+<ul>
+  <li><em>We believe the data represented on this site is the most comprehensive accounting of people killed by police since 2013. … more comprehensive than the Washington Post police shootings database: … includes additional incidents such as cases where police kill someone through use of a chokehold, baton, taser or other means as well as cases such as killings by off-duty police.</em></li>
+</ul>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="mappingpoliceviolence.png" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="mappingpoliceviolence.png" target="_blank">View Image in New Tab</a></p>
+
+<h1 id="expanding-the-dataset-and-filling-gaps">Expanding the Dataset and Filling Gaps</h1>
+
+<p>The Deadly Force dataset does not capture the full picture.  We need a broader, more inclusive account of all deaths that are occurring as a result of interactions with police in Canada.</p>
+
+<h3 id="1-killings-by-off-duty--ex-police-officers">1) Killings by off-duty &amp; ex police officers</h3>
+<ul>
+  <li>Domestic violence rates among police families are <a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">two to four</a> times higher than they are in the general public.
+    <ul>
+      <li>At least four Canadian police have killed their partners since 2000 <a href="https://www.thestar.com/news/2007/10/31/wills_found_guilty_of_murdering_mistress.html">1</a> <a href="https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/">2</a> <a href="https://www.cbc.ca/news/canada/ex-rcmp-officer-convicted-of-murder-1.305479">3</a> <a href="https://www.cbc.ca/news/canada/edmonton/former-mountie-found-not-criminally-responsible-in-wife-s-death-1.1304062">4</a></li>
+      <li>At least one death from a drunk off-duty officer striking a pedestrian. <a href="https://killercopscanada.wordpress.com/2019/10/31/killer-cop-justin-holz-gets-30-months-for-killing-cody-severight-in-2017/">1</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="2-deaths-from-negligence-incompetence">2) Deaths from Negligence, Incompetence</h3>
+<ul>
+  <li>There are multiple incidents of deaths from police-involved car crashes. <a href="https://www.cbc.ca/news/canada/montreal/man-dies-police-custody-puvirnituq-1.4091914">1</a> <a href="https://barrie.ctvnews.ca/pedestrian-struck-and-killed-by-an-unmarked-opp-vehicle-in-midland-1.5124667?cache=">2</a> <a href="https://www.bei.gouv.qc.ca/actualites/detail/mise-a-jour-concernant-levenement-survenu-a-mont-laurier-le-13-octobre-lidentite-du-civil-decede.html">3</a>
+    <ul>
+      <li>Including a <a href="https://killercopscanada.wordpress.com/2018/12/15/killer-cop-patrick-ouellet-gets-8-months-for-killing-five-year-old-nicholas-thorne-belance/">five year old boy</a> who was killed by an officer in an unarmed vehicle going double the speed limit.</li>
+    </ul>
+  </li>
+  <li><a href="https://en.wikipedia.org/wiki/Death_of_Regis_Korchinski-Paquet">Falls</a> or suicides during police encounters are a frequent occurrence.</li>
+</ul>
+
+<h3 id="3-deaths-occurring-in-police-custody">3) Deaths Occurring in Police Custody</h3>
+<ul>
+  <li>There are many records of individuals in police custody being denied or delayed medical care.
+    <ul>
+      <li>In one horrific case, an Indigenous man from <a href="https://www.cbc.ca/news/canada/north/paul-kayuryuk-baker-lake-inquest-1.4231300">Baker Lake, NU</a> was found unconscious after suffering a stroke.  The police assumed he was intoxicated and kept him in a jail cell overnight.</li>
+    </ul>
+  </li>
+  <li>Suicides in police custody are <a href="https://www.theglobeandmail.com/news/politics/womans-death-in-custody-exposes-indigenous-policing-issues/article32694835/">oftentimes preventable</a>.</li>
+  <li>Two men burned to death in a jail cell while being held for public intoxication at the <a href="https://www.cbc.ca/news/canada/kashechewan-fire-inquest-calls-for-more-funds-for-police-stations-training-1.819764">Kashechewan First Nation police detachment</a>.</li>
+</ul>
+
+<h1 id="what-other-information-is-available">What Other Information is Available?</h1>
+<p><a href="https://killercopscanada.wordpress.com/">Killercopscanada</a> has a more inclusive record of police-involved deaths dating back to July 2015.</p>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="killercopscanada.png" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="killercopscanada.png" target="_blank">View Image in New Tab</a></p>
+
+<h1 id="validating-updating-and-expanding-the-dataset">Validating, Updating, and Expanding the Dataset</h1>
+<p>Using the Deadly Force Dataset, the <a href="https://killercopscanada.wordpress.com/">Killercopscanada</a> blog, and Google Searches, I have stared compiling a new, more comprehensive database of Police-Involved Deaths.</p>
+<ul>
+  <li>I have added all verifiable records from <a href="https://killercopscanada.wordpress.com/">Killercopscanada</a> occurring after the CBC Deadly Force database ends (June 30, 2020).</li>
+  <li>I have begun working backwards through the DeadlyForce database to fill in missing incidents and update missing records.  So far, I have found 53 police-involved-deaths that were left out of the CBC dataset.
+    <ul>
+      <li>I have only just begun this part of the process, there are many more missing records to be added.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>There have been <em>at least</em> 60 police-involved deaths that have occurred since the dataset was published.</p>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="CA_Trendline.png" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="CA_Trendline.png" target="_blank">View Image in New Tab</a></p>
+
+<h1 id="advocating-for-accountability-attributing-blame">Advocating for Accountability, Attributing Blame</h1>
+
+<p>As of 2017 (<em>2020 update does not include this information</em>), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 634 individuals.</p>
+
+<h3 id="police-involved-deaths-by-departments">Police-Involved Deaths by Departments</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">Rank</th>
+      <th>Department</th>
+      <th>Province</th>
+      <th style="text-align: right">Killings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">1</td>
+      <td>RCMP</td>
+      <td>BC</td>
+      <td style="text-align: right">91</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">2</td>
+      <td>Toronto Police Service</td>
+      <td>ON</td>
+      <td style="text-align: right">67</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">3</td>
+      <td>RCMP</td>
+      <td>AB</td>
+      <td style="text-align: right">41</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">4</td>
+      <td>Ontario Provincial Police</td>
+      <td>ON</td>
+      <td style="text-align: right">36</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">5</td>
+      <td>Service de police de la Ville de Montréal</td>
+      <td>QC</td>
+      <td style="text-align: right">35</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">6</td>
+      <td>Sûreté du Québec</td>
+      <td>QC</td>
+      <td style="text-align: right">34</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">7</td>
+      <td>Edmonton Police Service</td>
+      <td>AB</td>
+      <td style="text-align: right">31</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">8</td>
+      <td>Calgary Police Service</td>
+      <td>AB</td>
+      <td style="text-align: right">29</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">9</td>
+      <td>Vancouver Police Department</td>
+      <td>BC</td>
+      <td style="text-align: right">27</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">10</td>
+      <td>Winnipeg Police Service</td>
+      <td>MB</td>
+      <td style="text-align: right">26</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">11</td>
+      <td>Peel Regional Police</td>
+      <td>ON</td>
+      <td style="text-align: right">17</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">12</td>
+      <td>Ottawa Police Service</td>
+      <td>ON</td>
+      <td style="text-align: right">14</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">13</td>
+      <td>RCMP</td>
+      <td>SK</td>
+      <td style="text-align: right">11</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">14</td>
+      <td>York Regional Police</td>
+      <td>ON</td>
+      <td style="text-align: right">10</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="PoliceViolenceIncidents.html" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="PoliceViolenceIncidents.html" target="_blank">View Image in New Tab</a></p>
+
+<h1 id="sharing-the-information">Sharing the Information</h1>
+
+<h3 id="ubc-library-research-commons-gis-workshops">UBC Library Research Commons GIS Workshops</h3>
+
+<p>I have applied these data to create a series of instructional workshops.  The goal is to expose students to this important information and show them how they can use open-source tools to address issues they are passionate about.</p>
+
+<p>Two hands-on workshops show students how they use open source technology to advocate for social justice.  <a href="https://ubc-library-rc.github.io/Geospatial-Analysis-Visualization-with-Python/">The first</a> some basic skills needed to analyze and plot geospatial data with Python.  <a href="https://ubc-library-rc.github.io/Geocoding-Web-Mapping-with-Python/">The second</a> teaches students how to geocode with Python using the Mapbox API and gives them a basic overview of how to create interactive web maps.
+<a href="https://ubc-lib-geo.github.io/Data-Normalization-Classification/">A third</a> lecture-style workshop highlights the importance of normalizing data and teaches students how to apply different data classification methods.</p>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="images/ImportanceOfNormalizing.png" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="images/ImportanceOfNormalizing.png" target="_blank">View Image in New Tab</a></p>
+
+<h1 id="publishing-the-data-and-results">Publishing the Data and Results</h1>
+
+<p>The updated dataset is publicly available on my <a href="https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs">github page</a>.  I intend to continue working to update, document, and share this dataset.</p>
+<ul>
+  <li>I have aspirations of building an interactive web-app to facilitate broader public engagement with the data.</li>
+  <li>It is also important to publish this work in a peer reviewed journal.  But I am unsure what would be an appropriate outlet?</li>
+  <li>If anyone has any questions, comments, or interest in collaborating on this please contact me!</li>
+</ul>
+:ET

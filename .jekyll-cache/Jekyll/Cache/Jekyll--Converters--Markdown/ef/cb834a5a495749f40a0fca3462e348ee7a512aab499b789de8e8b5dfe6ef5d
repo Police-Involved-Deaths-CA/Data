@@ -1,0 +1,88 @@
+I"�<h1 class="no_toc" id="acknowledgements--introductions">Acknowledgements &amp; Introductions</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#notes-on-terminology" id="markdown-toc-notes-on-terminology">Notes on Terminology</a></li>
+  <li><a href="#deadly-force" id="markdown-toc-deadly-force">Deadly Force</a>    <ol>
+      <li><a href="#lack-of-access-and-transparency" id="markdown-toc-lack-of-access-and-transparency">Lack of Access and Transparency</a></li>
+    </ol>
+  </li>
+  <li><a href="#the-cbc-dataset-is-highly-flawed" id="markdown-toc-the-cbc-dataset-is-highly-flawed">The CBC Dataset is Highly Flawed</a></li>
+  <li><a href="#looking-to-the-united-states" id="markdown-toc-looking-to-the-united-states">Looking to the United States</a></li>
+</ol>
+
+</details>
+
+<h1 id="notes-on-terminology">Notes on Terminology</h1>
+
+<p><strong>Police Killing:</strong> A death directly resulting from police use of force.  Including but not limited to: shooting, tazing, other use of force.</p>
+
+<p><strong>Police-Involved Deaths</strong>  Any civilian death at the hands of police or in the custody of police.  Includes police killings deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.</p>
+
+<h1 id="deadly-force">Deadly Force</h1>
+
+<p>The most comprehensive publicly available dataset on police killings in Canada is the <a href="https://newsinteractives.cbc.ca/fatalpoliceencounters/">Deadly Force database</a> was collected by the Canadian Boradcast Corporation (CBC).  Initially published in 2018, it was updated July 23, 2020.</p>
+
+<ul>
+  <li><em>“There is no government database listing deaths at the hands of the police available to the public in Canada, so CBC News created its own. The CBC’s research librarians have collected detailed information on each case, such as ethnicity, the role of mental illness or substance abuse, the type of weapon used and the police service involved, to create a picture of who is dying in police encounters.”</em></li>
+</ul>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="images/deadlyforce.png" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="images/deadlyforce.png" target="_blank">View Image in New Tab</a></p>
+
+<h2 id="lack-of-access-and-transparency">Lack of Access and Transparency</h2>
+
+<p><a href="https://www.pivotlegal.org/17_years_of_police_violence_in_canada">Pivot Legal</a></p>
+
+<h1 id="the-cbc-dataset-is-highly-flawed">The CBC Dataset is Highly Flawed</h1>
+
+<p>1) The CBC has not: disclosed the specifics of their methodology, defined what qualifies as a police killing or a police-involved death, or provided sources for their data.</p>
+
+<p>2) The data are not regularly updated.  The dataset was initially published in <a href="https://newsinteractives.cbc.ca/longform-custom/deadly-force">2018</a>, but was not updated again for two and a half years. The updates coincided with media attention surrounding the Black Lives Matter protests in summer 2020, and to date the CBC has no plans of updating it further.</p>
+
+<p>3) There are many missing/incomplete records in their data.  The victims’ race is Unknown in 136 incidents, their names are missing in 45 incidents and the cause of death is Unknown in 22 incidents.</p>
+
+<ul>
+  <li>The CBC database has missing incidents entirely, including: <em>at least</em> four shootings, multiple tazings, a death from a police dog, and two <a href="https://www.canadaland.com/podcast/the-police-4-starlight-tours/">starlight tours</a>.  A starlight tour is when police abduct Indigenous individuals and drop them off in rural areas.  When done in the winter, some victims  freeze to death.</li>
+  <li>I asked the CBC why the starlight tour deaths of Rodney Naistus and Lawrence Wegner in January and February 2000 at the hands of the Saskatoon Police were not included in the database.
+    <ul>
+      <li><em>“While their deaths were very likely a result of starlight tours by the Saskatoon police, they were not added to the database because there is no record of police officers picking them up. The inquests into their deaths were also inconclusive. Because of the lack of definitive proof, it was decided not to include them in the database.”</em></li>
+    </ul>
+  </li>
+  <li>Their response highlights why we cannot rely on a news corporation to collect &amp; disseminate this type of information.</li>
+</ul>
+
+<h1 id="looking-to-the-united-states">Looking to the United States</h1>
+<p>A non-profit organization, <a href="https://mappingpoliceviolence.org/">Mapping Police Violence</a>, maintains a database and updates it frequently.</p>
+<ul>
+  <li><em>We believe the data represented on this site is the most comprehensive accounting of people killed by police since 2013. … more comprehensive than the Washington Post police shootings database: … includes additional incidents such as cases where police kill someone through use of a chokehold, baton, taser or other means as well as cases such as killings by off-duty police.</em></li>
+</ul>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="mappingpoliceviolence.png" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="mappingpoliceviolence.png" target="_blank">View Image in New Tab</a></p>
+:ET
