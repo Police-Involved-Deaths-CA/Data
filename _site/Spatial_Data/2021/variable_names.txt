@@ -1,0 +1,8 @@
+VALUE0	# Household Population by Aboriginal Identity | Household Population For Aboriginal Identity | Aboriginal Identity, 2021
+VALUE1	# Household Population by Aboriginal Identity | Household Population For Aboriginal Identity, 2021
+VALUE2	# Basics | Total Population, 2021
+VALUE3	# Female Population by Age | Females, 2021
+VALUE4	# Male Population by Age | Males, 2021
+VALUE5	# Household Population by Visible Minority Status | Household Population For Visible Minority | Visible Minority Total | Visible Minority Black, 2021
+VALUE6	# Household Population by Visible Minority Status | Household Population For Visible Minority, 2021
+VALUE7	# Household Population by Visible Minority Status | Household Population For Visible Minority | Visible Minority Total, 2021

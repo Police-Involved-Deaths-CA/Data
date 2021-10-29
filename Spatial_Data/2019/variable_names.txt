@@ -1,0 +1,8 @@
+VALUE0	# Household Population by Aboriginal Identity | Household Population For Aboriginal Identity | Aboriginal Identity, 2019
+VALUE1	# Household Population by Aboriginal Identity | Household Population For Aboriginal Identity, 2019
+VALUE2	# Basics | Total Population, 2019
+VALUE3	# Female Population by Age | Females, 2019
+VALUE4	# Male Population by Age | Males, 2019
+VALUE5	# Household Population by Visible Minority Status | Household Population For Visible Minority | Visible Minority Total | Visible Minority Black, 2019
+VALUE6	# Household Population by Visible Minority Status | Household Population For Visible Minority, 2019
+VALUE7	# Household Population by Visible Minority Status | Household Population For Visible Minority | Visible Minority Total, 2019

@@ -1,0 +1,23 @@
+title: GEOS270 2021W1
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+github_repo_url: "https://june-skeeter.github.io/Module3_GEOS270/"
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+markdown: kramdown
+
+aux_links:
+  "View on github":
+    - "//github.com/June-Skeeter/Module3_GEOS270/"
+
+# license information for content
+license_name: "Creative Commons Attribution 4.0 International License"
+license_url: "http://creativecommons.org/licenses/by/4.0/"
+license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
+
+# required for building jekyll site locally
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag

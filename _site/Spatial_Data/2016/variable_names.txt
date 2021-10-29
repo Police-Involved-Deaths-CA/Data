@@ -1,0 +1,8 @@
+VALUE0	# Aboriginal Identity | Aboriginal identity, 2016
+VALUE1	# Aboriginal Identity | Total Household Population for Aboriginal Identity, 2016
+VALUE2	# Female Population by Age | Females, 2016
+VALUE3	# Male Population by Age | Males, 2016
+VALUE4	# Basics | Population, 2016, 2016
+VALUE5	# Population by Visible Minority Status | Visible Minority - Black, 2016
+VALUE6	# Population by Visible Minority Status | Total Household Population for Visible Minority, 2016
+VALUE7	# Population by Visible Minority Status | Visible Minority - Total visible minority population, 2016
