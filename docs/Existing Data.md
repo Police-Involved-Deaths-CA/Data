@@ -111,7 +111,7 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 
 [Killercopscanada](https://killercopscanada.wordpress.com/) has a more inclusive record of police-involved deaths dating back to July 2015.
 
-[laCRAP](https://www.lacrap.org/) is a list of names, ages, and dates by province.  Its in French, but I've managed to parse some of it.
+[laCRAP](https://www.lacrap.org/) is a list of names, ages, and dates by province.  Its in French, but I've managed to parse some of it
 
 # Validating, Updating, and Expanding the Dataset
 
@@ -153,7 +153,4 @@ Two hands-on workshops show students how they use open source technology to advo
 
 # Publishing the Data and Results
 
-The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue working to update, document, and share this dataset.
-* I have aspirations of building an interactive web-app to facilitate broader public engagement with the data.
-* It is also important to publish this work in a peer reviewed journal.  But I am unsure what would be an appropriate outlet?
-* If anyone has any questions, comments, or interest in collaborating on this please contact me!  
+Further dissemination tbd

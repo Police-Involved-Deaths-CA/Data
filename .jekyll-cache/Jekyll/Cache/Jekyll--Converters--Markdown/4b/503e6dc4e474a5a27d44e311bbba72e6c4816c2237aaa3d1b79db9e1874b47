@@ -1,12 +1,30 @@
-I"=<h1 id="police-killings-and-police-involved-deaths-in-canada">Police Killings and Police Involved Deaths in Canada</h1>
+I"±<h1 id="police-killings-and-police-involved-deaths-in-canada">Police Killings and Police Involved Deaths in Canada</h1>
+
+<p>This is a rough overview, further analysis is pending</p>
 
 <h2 id="annual-trends">Annual Trends</h2>
 
-<p><img src="images/Annual.png" /></p>
+<p><img src="images/Annual.png" width="600" /></p>
 
 <h2 id="types-of-deaths">Types of Deaths</h2>
 
 <p><img src="images/Distribtution.png" /></p>
+
+<h2 id="by-race">By Race</h2>
+
+<p><img src="images/Race.png" /></p>
+
+<h2 id="by-gender">By Gender</h2>
+
+<p><img src="images/Gender.png" /></p>
+
+<h2 id="by-age">By Age</h2>
+
+<p><img src="images/age.png" /></p>
+
+<h2 id="by-department">By Department</h2>
+
+<p><img src="images/Departments.png" /></p>
 
 <h2 id="by-province">By Province</h2>
 

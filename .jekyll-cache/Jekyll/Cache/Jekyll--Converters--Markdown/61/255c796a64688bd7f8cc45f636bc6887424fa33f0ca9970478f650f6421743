@@ -1,6 +1,10 @@
-I"r<h1 id="police-killings-and-police-involved-deaths-in-canada">Police Killings and Police Involved Deaths in Canada</h1>
+I"<h1 id="police-killings-and-police-involved-deaths-in-canada">Police Killings and Police Involved Deaths in Canada</h1>
+
+<p>This is a rough overview, further analysis is pending.</p>
 
 <h2 id="annual-trends">Annual Trends</h2>
+
+<p>There has been a recent increase, but that may be due to increased data availabilty.</p>
 
 <p><img src="images/Annual.png" width="600" /></p>
 
@@ -22,7 +26,7 @@
 
 <h2 id="by-department">By Department</h2>
 
-<p><img src="images/Department.png" /></p>
+<p><img src="images/Departments.png" /></p>
 
 <h2 id="by-province">By Province</h2>
 
