@@ -8,11 +8,28 @@ nav_order: 4
 
 ## Annual Trends
 
-<img src='images/Annual.png'>
+<img src='images/Annual.png' width='600'>
 
 ## Types of Deaths
 
 <img src='images/Distribtution.png'>
+
+## By Race
+
+<img src='images/Race.png'>
+
+## By Gender
+
+<img src='images/Gender.png'>
+
+## By Age
+
+<img src='images/age.png'>
+
+
+## By Department
+
+<img src='images/Departments.png'>
 
 ## By Province
 
