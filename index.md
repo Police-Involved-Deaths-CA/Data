@@ -8,3 +8,13 @@ nav_order: 1
 
 <img src='docs/Annual.png'>
 
+
+<img src='docs/Distribtution.png'>
+
+
+
+<img src='docs/Kiling_Rate_by_Prov.png'>
+
+potats
+
+cotats
