@@ -17,11 +17,7 @@ nav_order: 3
 </details>
 
 
-# Notes on Terminology
-
-**Police Killing:** A death directly resulting from police use of force.  Including but not limited to: shooting, tazing, other use of force.
-
-**Police-Involved Deaths**  Any civilian death at the hands of police or in the custody of police.  Includes police killings deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.  
+<!-- # Notes on Terminology -->
 
 
 # Deadly Force
@@ -47,7 +43,7 @@ The most comprehensive publicly available dataset on police killings in Canada i
 
 ## Lack of Access and Transparency
 
-[Pivot Legal](https://www.pivotlegal.org/17_years_of_police_violence_in_canada)
+The CBC would not share their original dataset from the 2018 article that had location based information.  However, they had previously shared it with [Pivot Legal](https://www.pivotlegal.org/17_years_of_police_violence_in_canada).  I reached out to Pivot Legal, and they were willing to share it with me.
 
 
 # The CBC Dataset is Highly Flawed
@@ -56,9 +52,9 @@ The most comprehensive publicly available dataset on police killings in Canada i
 
 2) The data are not regularly updated.  The dataset was initially published in [2018](https://newsinteractives.cbc.ca/longform-custom/deadly-force), but was not updated again for two and a half years. The updates coincided with media attention surrounding the Black Lives Matter protests in summer 2020, and to date the CBC has no plans of updating it further.
 
-3) There are many missing/incomplete records in their data.  The victims' race is Unknown in 136 incidents, their names are missing in 45 incidents and the cause of death is Unknown in 22 incidents.
+3) There are many missing/incomplete records in their data.
 
-* The CBC database has missing incidents entirely, including: *at least* four shootings, multiple tazings, a death from a police dog, and two [starlight tours](https://www.canadaland.com/podcast/the-police-4-starlight-tours/).  A starlight tour is when police abduct Indigenous individuals and drop them off in rural areas.  When done in the winter, some victims  freeze to death.
+* The CBC database has missing incidents entirely, including: multiple shootings, tazings, and beatings, a death from a police dog, and two [starlight tours](https://www.canadaland.com/podcast/the-police-4-starlight-tours/).  A starlight tour is when police abduct Indigenous individuals and drop them off in rural areas.  When done in the winter, some victims freeze to death.
 * I asked the CBC why the starlight tour deaths of Rodney Naistus and Lawrence Wegner in January and February 2000 at the hands of the Saskatoon Police were not included in the database.
 	* *"While their deaths were very likely a result of starlight tours by the Saskatoon police, they were not added to the database because there is no record of police officers picking them up. The inquests into their deaths were also inconclusive. Because of the lack of definitive proof, it was decided not to include them in the database."*
 
@@ -66,6 +62,7 @@ The most comprehensive publicly available dataset on police killings in Canada i
 - Their response highlights why we cannot rely on a news corporation to collect & disseminate this type of information.
 
 # Looking to the United States
+
 A non-profit organization, [Mapping Police Violence](https://mappingpoliceviolence.org/), maintains a database and updates it frequently.
 * *We believe the data represented on this site is the most comprehensive accounting of people killed by police since 2013. ... more comprehensive than the Washington Post police shootings database: ... includes additional incidents such as cases where police kill someone through use of a chokehold, baton, taser or other means as well as cases such as killings by off-duty police.*
 

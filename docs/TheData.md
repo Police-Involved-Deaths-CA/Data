@@ -10,9 +10,6 @@ This is a rough overview, further analysis is pending.
 
 ## Annual Trends
 
-There has been a recent increase, but that may be due to increased data availabilty.
-
-<img src='images/Annual.png' width='600'>
 
 ## Types of Deaths
 
