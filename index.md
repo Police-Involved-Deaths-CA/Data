@@ -40,10 +40,9 @@ There has been an increasing trend in deaths at the hands of Canadian Police ove
 
 Police in the North and West are More Violent
 
-<img src='images/Kiling_Rate_by_Prov.png'>
+<img src='docs/images/Kiling_Rate_by_Prov.png'>
 
 # Access the Data
-
 
 The Canadian Police Killing and Police Involved Deaths data can be accessed [here](https://github.com/PoliceKillingsandInolvedDeathsCanada/Data/tree/main/MostRecentUpdate).
 
