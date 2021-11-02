@@ -1,7 +1,7 @@
-title: GEOS270 2021W1
+title: Police Involved Deaths Canada
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
-github_repo_url: "https://PID-CA.github.io/Data/"
+github_repo_url: "https://pid-ca.github.io/Data/"
 
 # Enable or disable heading anchors
 heading_anchors: true
@@ -10,7 +10,7 @@ markdown: kramdown
 
 aux_links:
   "View on github":
-    - "//github.com/PID-CA/Data/"
+    - "//github.com/pid-ca/Data/"
 
 # license information for content
 license_name: "Creative Commons Attribution 4.0 International License"
