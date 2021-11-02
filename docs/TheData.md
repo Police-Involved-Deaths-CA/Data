@@ -1,15 +1,12 @@
 ---
 layout: default
 title: The Data
-nav_order: 4
+nav_order: 3
 ---
 
 # Police Killings and Police Involved Deaths in Canada
 
 This is a rough overview, further analysis is pending.
-
-## Annual Trends
-
 
 ## Types of Deaths
 
@@ -32,9 +29,8 @@ This is a rough overview, further analysis is pending.
 
 <img src='images/Departments.png'>
 
-## By Province
-
-<img src='images/Kiling_Rate_by_Prov.png'>
+<!-- ## By Province
+ -->
 
 ## Spatial Attribution
 
