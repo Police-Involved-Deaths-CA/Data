@@ -40,7 +40,7 @@ There has been an increasing trend in deaths at the hands of Canadian Police ove
 
 Police in the North and West are More Violent
 
-<img src='docs/images/Deaths_by_Prov.png'>
+<img src='docs/images/PID_by_Prov.png'>
 
 # Access the Data
 
