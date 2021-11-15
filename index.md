@@ -32,7 +32,7 @@ Canadian institutions rely on the lack of race based statistics and other demogr
 
 ## Increasing Police Violence in Canada
 
-There has been an increasing trend in deaths at the hands of Canadian Police over recent years.  This may be partly an result of greater access to information, but it is also probable that Canadian Police *are* becoming more violent.
+There has been an alarming increase in deaths at the hands of Canadian Police over recent years.
 
 <img src='docs/images/Annual.png' width='600'>
 
@@ -48,4 +48,4 @@ The Canadian Police Killing and Police Involved Deaths data can be accessed [her
 
 ## About the Data
 
-This dataset was compiled by June Skeeter: june.skeeter@ubc.ca  Contact me if you have any questions or concerns.  I am a climate scientist and GIS instructor.  I've complied this data in my spare time, because it is an important issue that does not get the attention it deserves.
+This dataset was compiled and is currently maintained by June Skeeter: june.skeeter@ubc.ca  Contact me if you have any questions, comments, or concerns.  I am white settler and immigrant from the United States, working as GIS instructor at UBC.  I've complied this data because it is an important issue that does not get the attention it deserves.

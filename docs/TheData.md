@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Data
+title: Trends and Demographics
 nav_order: 3
 ---
 
@@ -23,6 +23,12 @@ This is a rough overview, further analysis is pending.
 ## By Age
 
 <img src='images/age.png'>
+
+
+
+# Advocating for Accountability, Attributing Blame
+
+As of 2017 (*2020 update does not include this information*), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 634 individuals.
 
 
 ## By Department

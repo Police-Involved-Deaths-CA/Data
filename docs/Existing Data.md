@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Existing Dataset
+title: Data on Police Violence
 nav_order: 3
 ---
 
@@ -40,7 +40,7 @@ The CBC would not share their original dataset from the 2018 article that had lo
 * I asked the CBC why the starlight tour deaths of Rodney Naistus and Lawrence Wegner in January and February 2000 at the hands Saskatoon Police officers were not included in the database.
 	* *"While their deaths were very likely a result of starlight tours by the Saskatoon police, they were not added to the database because there is no record of police officers picking them up. The inquests into their deaths were also inconclusive. Because of the lack of definitive proof, it was decided not to include them in the database."*
 
-- Their response highlights why we cannot rely on a news corporation (especially one funded by the government) to collect and disseminate this type of information.
+Their response highlights why we cannot rely on a news corporation (especially one funded by the government) to collect and disseminate this type of information.
 
 # What Other Information is Available?
 
@@ -83,7 +83,3 @@ Using the Deadly Force dataset as a starting point, we have incorporated the kil
 * Two men burned to death in a jail cell while being held for public intoxication at the [Kashechewan First Nation police detachment](https://www.cbc.ca/news/canada/kashechewan-fire-inquest-calls-for-more-funds-for-police-stations-training-1.819764).
 
 
-
-# Advocating for Accountability, Attributing Blame
-
-As of 2017 (*2020 update does not include this information*), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 634 individuals.
