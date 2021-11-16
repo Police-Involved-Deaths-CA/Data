@@ -32,13 +32,13 @@ Canadian institutions rely on the lack of race based statistics and other demogr
 
 ## Increasing Police Violence in Canada
 
-There has been an alarming increase in deaths at the hands of Canadian Police over recent years.
+There has been an alarming increase in deaths at the hands of Canadian Police over recent years.  Police and government institutions need to be held account for this.
 
 <img src='docs/images/Annual.png' width='600'>
 
 ## Spatial Distribution
 
-Police in the North and West are More Violent
+Police in the North and West are More Violent.
 
 <img src='docs/images/PID_by_Prov.png'>
 
