@@ -1,2 +1,2 @@
 See this site for an explanation:
-https://policekillingsandinolveddeathscanada.github.io/Data/
+https://police-involved-deaths-ca.github.io/Data/

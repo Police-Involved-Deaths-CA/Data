@@ -1,8 +1,11 @@
 ,Key,Values
-0,Most Recent Update,2021-10-29
+0,Most Recent Update,2021-11-14
 1,Primary Data Sources,"CBC Deadly Force 2018: https://newsinteractives.cbc.ca/longform-custom/deadly-force*,
       CBC Deadly Force 2020: https://newsinteractives.cbc.ca/fatalpoliceencounters/,
       https://killercopscanada.wordpress.com/,
       https://www.lacrap.org/,
       https://nccabc.ca/wp-content/uploads/2015/02/nccabc_aboriginaldeathsincustody.pdf"
-2,Notes:Created by,"*CBC wouold not share, obtained from Pivot Legal: https://www.pivotlegal.org/17_years_of_police_violence_in_canadaJune Skeeter"
+2,Notes:,"*CBC wouold not share, obtained from Pivot Legal: https://www.pivotlegal.org/17_years_of_police_violence_in_canada"
+3,Created by,June Skeeter
+4,Other Info,"Police_Killings_Locations contains only locations with addresses information,
+     it is not yet fully complete.  Points were geocoded using mapbox"
