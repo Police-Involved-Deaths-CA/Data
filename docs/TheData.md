@@ -6,24 +6,34 @@ nav_order: 3
 
 # Police Killings and Police Involved Deaths in Canada
 
-This is a rough overview, further analysis is pending.
+This is overview is pending further analysis.
 
 ## Types of Deaths
+
+The largest proportion in the database are police shootings.
 
 <img src='images/Distribtution.png'>
 
 ## By Race
 
+The demographic distribution is **severely** uneven.
+
 <img src='images/Race.png'>
 
+Normalizing by National population totals highlights just how sever the disparity is.
+
+
+<img src='images/Race_Normalized.png'>
+
 ## By Gender
+
+There is a severe gender disparity as well.
 
 <img src='images/Gender.png'>
 
 ## By Age
 
 <img src='images/age.png'>
-
 
 
 # Advocating for Accountability, Attributing Blame
@@ -35,8 +45,6 @@ As of 2017 (*2020 update does not include this information*), only 14 officers (
 
 <img src='images/Departments.png'>
 
-<!-- ## By Province
- -->
 
 ## Spatial Attribution
 

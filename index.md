@@ -49,3 +49,7 @@ The Canadian Police Killing and Police Involved Deaths data can be accessed [her
 ## About the Data
 
 This dataset was compiled and is currently maintained by June Skeeter: june.skeeter@ubc.ca  Contact me if you have any questions, comments, or concerns.  I am white settler and immigrant from the United States, working as GIS instructor at UBC.  I've complied this data because it is an important issue that does not get the attention it deserves.
+
+## Positoinality Statement
+
+At 19, I was charged with "possession of a controlled dangerous substance" (0.5 grams of marijuana).  Before that point, I did not fear the police, my whiteness shielded me from their harassment.  But after being labeled a "criminal", I did get a glimpse how police treatment differed.  Police would "run my tags" then pull me over and detain me without cause while they brought in dogs to search my vehicle.  Once an officer approached with his hand on his holster, ready to draw.  If I were black, the pistol would likely have been drawn and I may have been shot.  Moving to Canada, where my "crime" is not a crime, I thought "This place is better than that".  But I could not have been farther from the truth.  I fell for a narrative that has been crafted Canadian institutions, that police violence is "just and American issue".  The reality, is that there has been an [alarming increase](https://police-involved-deaths-ca.github.io/Data/#increasing-police-violence-in-canada) in deaths from police encounter across Canada in recent years.
