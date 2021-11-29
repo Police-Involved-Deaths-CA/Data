@@ -1,0 +1,54 @@
+I"É<h1 id="police-killings-and-police-involved-deaths-in-canada">Police Killings and Police Involved Deaths in Canada</h1>
+
+<p>This is overview is pending further analysis.</p>
+
+<h2 id="types-of-deaths">Types of Deaths</h2>
+
+<p>The largest proportion in the database are police shootings.</p>
+
+<p><img src="images/Distribtution.png" /></p>
+
+<h2 id="by-race">By Race</h2>
+
+<p>The demographic distribution is <strong>severely</strong> uneven.</p>
+
+<p><img src="images/Race.png" /></p>
+
+<p>Normalizing by National population totals highlights just how sever the disparity is.</p>
+
+<p><img src="images/Race_Normalized.png" /></p>
+
+<h2 id="by-gender">By Gender</h2>
+
+<p>There is a severe gender disparity as well.</p>
+
+<p><img src="images/Gender.png" /></p>
+
+<h2 id="by-age">By Age</h2>
+
+<p><img src="images/age.png" /></p>
+
+<h1 id="advocating-for-accountability-attributing-blame">Advocating for Accountability, Attributing Blame</h1>
+
+<p>As of 2017 (<em>2020 update does not include this information</em>), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 634 individuals.</p>
+
+<h2 id="by-department">By Department</h2>
+
+<p><img src="images/Departments.png" /></p>
+
+<h2 id="spatial-attribution">Spatial Attribution</h2>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="PID.html" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="PID.html" target="_blank">View Image in New Tab</a></p>
+:ET

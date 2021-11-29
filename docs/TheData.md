@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trends and Demographics
-nav_order: 3
+nav_order: 2
 ---
 
 # Police Killings and Police Involved Deaths in Canada
