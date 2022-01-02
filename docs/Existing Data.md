@@ -18,6 +18,16 @@ nav_order: 3
 
 Police officers regularly face no consequences for killing members of marginalized communities.   Hundreds have died at the hands of police in the last decade and nothing has been done about it.  Police institutions have a vested interest in maintaining their status a heavily armed domestic military force.  The government has a vested interest in maintaining status quo.  It is not surprising a publicly maintained, publicly accessible record of deaths resulting from police action or inaction does not exist for Canada.  But it is an abject failure on the part of Governance.  Some attempts have been made at compiling records.  But these disparate records are not mutually inclusive and cannot be easily cross referenced.
 
+
+## About the Data
+
+This dataset was compiled and is currently maintained by June Skeeter: june.skeeter@ubc.ca  Contact me if you have any questions, comments, or concerns.  I am white settler and immigrant from the United States, working as GIS instructor at UBC.  I've complied this data because it is an important issue that does not get the attention it deserves.
+
+## Positoinality Statement
+
+At 19, I (June Skeeter) was charged with "possession of a controlled dangerous substance" (0.5 grams of marijuana) by the state of Maryland, USA.  Before that point, I did not fear the police, my whiteness shielded me from their harassment.  But after being labeled a "criminal", I did get a glimpse how police treatment differed.  Police would pull me over and detain me without cause while they brought in dogs to search my vehicle.  Once an officer approached with his hand on his holster, ready to draw.  If I were black, the pistol would likely have been drawn and I may have been shot.  Moving to Canada, where my "crime" is not a crime, I thought "This place is better than that".  But I could not have been farther from the truth.  I fell for a narrative that has been crafted Canadian institutions, that police violence is "just and American issue".  The reality, is that there has been an alarming increase in deaths from police encounter across Canada in recent years.  My motivation for creating this dataset is to increase awareness and work to end police violence.
+
+
 # Deadly Force
 
 The most comprehensive publicly available dataset on police killings in Canada is the [Deadly Force database](https://newsinteractives.cbc.ca/fatalpoliceencounters/) was collected by the Canadian Broadcast Corporation (CBC).  Initially published in 2018, it was updated July 23, 2020.
