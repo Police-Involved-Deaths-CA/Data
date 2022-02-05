@@ -23,24 +23,72 @@ Racism is ingrained in the history of policing in Canada since the founding of t
 
 Canadian institutions rely on the lack of race based statistics and other demographic information to perpetuate a narrative that systemic racism is "just an American issue" and that Canada is "better".  We need to have discussions about systemic racism in Canada and make it part of the public discourse in order to hold Canadian institutions accountable.
 
+# Access the Data
+
+The Canadian Police Killing and Police Involved Deaths data can be accessed [here](https://github.com/Police-Involved-Deaths-CA/Data/tree/main/MostRecentUpdate).
+
 ## Notes on Terminology
 
 **Police Killing:** A death directly resulting from police use of force.  Including but not limited to: shooting, tazing, other use of force.
 
 **Police-Involved Deaths**  Any civilian death at the hands of police or in the custody of police.  Includes police killings deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.  
 
+# Trends and Demographics
+
 ## Increasing Police Violence in Canada
 
-There has been an alarming increase in deaths at the hands of Canadian Police over recent years.  Police and government institutions need to be held account for this.
+There has been an alarming increase in deaths at the hands of Canadian Police over recent years.  Some of this trend may be due to increaed access to information.  However, it is doubtufl that more information alone can explain this striking increase.
 
 <img src='docs/images/Annual.png' width='600'>
 
-## Spatial Distribution
+## Types of Deaths
 
-Police in the North and West are More Violent.
+**Police Shootings** are the largest proportion of deaths in the database.  **Other Killings** include all verified uses of force (tazings, beatings, etc.).  **Traffic Incidents** include deaths resulting from police chases and officers hitting pedestrians.  **Other Deaths** includes deaths in custody, suicides during police action, and those where details were not released. 
+
+<img src='images/Distribtution.png'>
+
+
+## By Race
+
+The racial breakdown of deaths is **severely** uneven.  Minimal information is released about most victims and their race is not specified in over half of incidents.  The information we have highlights that Indigenous and Black individuals are severely over-represented.  Normalizing by national population totals highlights just how sever the disparity is.  **Even** if *All* of the unspecified deaths were white, the death rate would not equal Indigenous or Black individuals.
+
+<img src='images/Race_Normalized.png'>
+
+## By Gender
+
+There is a severe gender disparity in deaths as well, particularly for police involved killings.
+
+<img src='images/Gender.png'>
+
+
+# Advocating for Accountability, Attributing Blame
+
+As of 2017 (*the most recent data available*), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these individuals.
+
+
+## By Department
+
+<img src='images/Departments.png'>
+
+# Spatial Distribution
+
+Ontario and Quebec have the highest numbers, but if normalizing by population highlights that the RCMP, police in the North and West are more predisposed to violence.
 
 <img src='docs/images/PID_by_Prov.png'>
 
-# Access the Data
-
-The Canadian Police Killing and Police Involved Deaths data can be accessed [here](https://github.com/Police-Involved-Deaths-CA/Data/tree/main/MostRecentUpdate).
+<!-- 
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="PID.html" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="PID.html" target="_blank">View Image in New Tab</a>
+ -->

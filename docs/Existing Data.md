@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Data on Police Violence
-nav_order: 3
+nav_order: 2
 ---
 
-# Acknowledgements & Introductions
+<!-- # Acknowledgements & Introductions -->
 {: .no_toc }
 
 <details open markdown="block">
