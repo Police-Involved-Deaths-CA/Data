@@ -45,20 +45,20 @@ There has been an alarming increase in deaths at the hands of Canadian Police ov
 
 **Police Shootings** are the largest proportion of deaths in the database.  **Other Killings** include all verified uses of force (tazings, beatings, etc.).  **Traffic Incidents** include deaths resulting from police chases and officers hitting pedestrians.  **Other Deaths** includes deaths in custody, suicides during police action, and those where details were not released. 
 
-<img src='images/Distribtution.png'>
+<img src='docs/images/Distribtution.png'>
 
 
 ## By Race
 
 The racial breakdown of deaths is **severely** uneven.  Minimal information is released about most victims and their race is not specified in over half of incidents.  The information we have highlights that Indigenous and Black individuals are severely over-represented.  Normalizing by national population totals highlights just how sever the disparity is.  **Even** if *All* of the unspecified deaths were white, the death rate would not equal Indigenous or Black individuals.
 
-<img src='images/Race_Normalized.png'>
+<img src='docs/images/Race_Normalized.png'>
 
 ## By Gender
 
 There is a severe gender disparity in deaths as well, particularly for police involved killings.
 
-<img src='images/Gender.png'>
+<img src='docs/images/Gender.png'>
 
 
 # Advocating for Accountability, Attributing Blame
@@ -68,7 +68,7 @@ As of 2017 (*the most recent data available*), only 14 officers (3%) had been ch
 
 ## By Department
 
-<img src='images/Departments.png'>
+<img src='docs/images/Departments.png'>
 
 # Spatial Distribution
 
