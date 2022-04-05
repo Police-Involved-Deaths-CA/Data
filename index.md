@@ -38,12 +38,14 @@ The Canadian Police Killing and Police Involved Deaths data can be accessed [her
 # Spatial Distribution
 
 ## By Province
+{: .no_toc }
 
 Ontario and Quebec have the highest numbers, but if normalizing by population highlights that the RCMP, police in the North and West are more predisposed to violence.
 
 <img src='docs/images/PID_by_Prov.png'>
 
 ## Point Locations
+{: .no_toc }
 
 <div style="overflow: hidden;
   padding-top: 60%;
