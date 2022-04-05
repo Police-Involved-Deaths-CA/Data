@@ -33,6 +33,23 @@ The Canadian Police Killing and Police Involved Deaths data can be accessed [her
 
 **Police-Involved Deaths**  Any civilian death at the hands of police or in the custody of police.  Includes police killings deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.  
 
+
+<div style="overflow: hidden;
+  padding-top: 60%;
+  position: relative">
+  <iframe src="Police_Involved_Deaths.html" title="Processes" scrolling="yes" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Police_Involved_Deaths.html" target="_blank">View page in New Tab</a>
+
+
 # Trends and Demographics
 
 ## Increasing Police Violence in Canada
