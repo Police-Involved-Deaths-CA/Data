@@ -68,7 +68,7 @@ Ontario and Quebec have the highest numbers, but if normalizing by population hi
 ## Increasing Police Violence in Canada
 {: .no_toc }
 
-There has been an alarming increase in deaths at the hands of Canadian Police over recent years.  Some of this trend may be due to increaed access to information.  However, it is doubtufl that more information alone can explain this striking increase.
+There has been an alarming increase in deaths at the hands of Canadian Police over recent years.  Some of this trend may be due to increased access to information.  However, it is doubtufl that more information alone can explain this striking increase.
 
 <img src='docs/images/Annual.png' width='600'>
 
