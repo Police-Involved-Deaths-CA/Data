@@ -1,0 +1,109 @@
+I"�<h1 class="no_toc" id="police-killings-and-police-involved-deaths-in-canada">Police Killings and Police Involved Deaths in Canada</h1>
+
+<p>Police officers regularly face no consequences for killing members of the public.   Hundreds have died at the hands of police in the last decade and little has been done about it.  Police institutions have a vested interest in maintaining their status a heavily armed domestic military force and the government has a vested interest in maintaining status quo.  It is not surprising a publicly maintained, transparent record of deaths resulting from police action or inaction does not exist in Canada.  However, it is an abject failure on the part of government and police institutions.  This project is an attempt to work towards promoting greater transparency, with the intention of advocating for accountability and helping to minimize police violence.</p>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#why-police-involved-deaths-in-canada" id="markdown-toc-why-police-involved-deaths-in-canada">Why Police-Involved Deaths in Canada?</a></li>
+  <li><a href="#access-the-data" id="markdown-toc-access-the-data">Access the Data</a></li>
+  <li><a href="#spatial-distribution" id="markdown-toc-spatial-distribution">Spatial Distribution</a></li>
+  <li><a href="#trends-and-demographics" id="markdown-toc-trends-and-demographics">Trends and Demographics</a></li>
+  <li><a href="#advocating-for-accountability-attributing-blame" id="markdown-toc-advocating-for-accountability-attributing-blame">Advocating for Accountability, Attributing Blame</a></li>
+</ol>
+
+</details>
+
+<h1 id="why-police-involved-deaths-in-canada">Why Police-Involved Deaths in Canada?</h1>
+
+<p>Racism is ingrained in the history of policing in Canada since the founding of the Royal Canadian Mounted Police (RCMP) in 1873.  Police in Canada play a central tool in Canada’s ongoing genocide of Indigenous people, actively work to oppress BIPOC communities, and maintain systems of oppression in Canadian society.  Police institutions exist to do the bidding of those in power, not protect the public.</p>
+
+<p>Canadian institutions rely on the lack of race based statistics and other demographic information to perpetuate a narrative that systemic racism is “just an American issue” and that Canada is “better”.  We need to have discussions about systemic racism in Canada and make it part of the public discourse in order to hold Canadian institutions accountable.</p>
+
+<h1 id="access-the-data">Access the Data</h1>
+
+<p>The Canadian Police Killing and Police Involved Deaths data can be accessed <a href="https://github.com/Police-Involved-Deaths-CA/Data/tree/main/MostRecentUpdate">here</a>.</p>
+
+<h2 class="no_toc" id="notes-on-terminology">Notes on Terminology</h2>
+
+<p><strong>Police Killing:</strong> A death directly resulting from police use of force.  Including but not limited to: shooting, tazing, other use of force.</p>
+
+<p><strong>Police-Involved Deaths</strong>  Any civilian death at the hands of police or in the custody of police.  Includes police killings deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.</p>
+
+<h1 id="spatial-distribution">Spatial Distribution</h1>
+
+<h2 class="no_toc" id="by-province">By Province</h2>
+
+<p>Ontario and Quebec have the highest numbers, but if normalizing by population highlights that the RCMP, police in the North and West are more predisposed to violence.</p>
+
+<p><img src="docs/images/PID_by_Prov.png" /></p>
+
+<h2 class="no_toc" id="point-locations">Point Locations</h2>
+
+<div style="overflow: hidden;
+  padding-top: 60%;
+  position: relative">
+  <iframe src="Police_Involved_Deaths.html" title="Processes" scrolling="yes" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="Police_Involved_Deaths.html" target="_blank">View page in New Tab</a></p>
+
+<h1 id="trends-and-demographics">Trends and Demographics</h1>
+
+<h2 class="no_toc" id="increasing-police-violence-in-canada">Increasing Police Violence in Canada</h2>
+
+<p>There has been an alarming increase in deaths at the hands of Canadian Police over recent years.  Some of this trend may be due to increased access to information.  However, it is doubtufl that more information alone can explain this striking increase.</p>
+
+<p><img src="docs/images/Annual.png" width="600" /></p>
+
+<h2 class="no_toc" id="types-of-deaths">Types of Deaths</h2>
+
+<p><strong>Police Shootings</strong> are the largest proportion of deaths in the database.  <strong>Other Killings</strong> include all verified uses of force (tazings, beatings, etc.).  <strong>Traffic Incidents</strong> include deaths resulting from police chases and officers hitting pedestrians.  <strong>Other Deaths</strong> includes deaths in custody, suicides during police action, and those where details were not released.</p>
+
+<p><img src="docs/images/Distribtution.png" /></p>
+
+<h2 class="no_toc" id="by-race">By Race</h2>
+
+<p>The racial breakdown of deaths is <strong>severely</strong> uneven.  Minimal information is released about most victims and their race is not specified in over half of incidents.  The information we have highlights that Indigenous and Black individuals are severely over-represented.  Normalizing by national population totals highlights just how sever the disparity is.  <strong>Even</strong> if <em>All</em> of the unspecified deaths were white, the death rate would not equal Indigenous or Black individuals.</p>
+
+<p><img src="docs/images/Race_Normalized.png" /></p>
+
+<h2 class="no_toc" id="by-gender">By Gender</h2>
+
+<p>There is a severe gender disparity in deaths as well, particularly for police involved killings.</p>
+
+<p><img src="docs/images/Gender.png" /></p>
+
+<h1 id="advocating-for-accountability-attributing-blame">Advocating for Accountability, Attributing Blame</h1>
+
+<p>As of 2017 (<em>the most recent data available</em>), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these individuals.</p>
+
+<h2 class="no_toc" id="by-department">By Department</h2>
+
+<p><img src="docs/images/Departments.png" /></p>
+
+<!-- 
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="PID.html" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="PID.html" target="_blank">View Image in New Tab</a>
+ -->
+:ET

@@ -1,0 +1,133 @@
+I"�/<!-- # Acknowledgements & Introductions -->
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#about-the-database" id="markdown-toc-about-the-database">About the Database</a>    <ol>
+      <li><a href="#about-the-data" id="markdown-toc-about-the-data">About the Data</a>        <ol>
+          <li><a href="#positoinality-statement" id="markdown-toc-positoinality-statement">Positoinality Statement</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#deadly-force" id="markdown-toc-deadly-force">Deadly Force</a>    <ol>
+      <li><a href="#lack-of-access-and-transparency" id="markdown-toc-lack-of-access-and-transparency">Lack of Access and Transparency</a></li>
+      <li><a href="#the-cbc-dataset-is-highly-flawed" id="markdown-toc-the-cbc-dataset-is-highly-flawed">The CBC Dataset is Highly Flawed</a></li>
+    </ol>
+  </li>
+  <li><a href="#what-other-information-is-available" id="markdown-toc-what-other-information-is-available">What Other Information is Available?</a>    <ol>
+      <li><a href="#killer-cops-canada" id="markdown-toc-killer-cops-canada">Killer Cops Canada</a></li>
+      <li><a href="#lacrap" id="markdown-toc-lacrap">laCRAP</a></li>
+    </ol>
+  </li>
+  <li><a href="#expanding-the-dataset" id="markdown-toc-expanding-the-dataset">Expanding the Dataset</a>    <ol>
+      <li><a href="#validating-and-updating" id="markdown-toc-validating-and-updating">Validating and Updating</a>        <ol>
+          <li><a href="#1-killings-by-off-duty--ex-police-officers" id="markdown-toc-1-killings-by-off-duty--ex-police-officers">1) Killings by off-duty &amp; ex police officers</a></li>
+          <li><a href="#2-deaths-from-negligence-incompetence" id="markdown-toc-2-deaths-from-negligence-incompetence">2) Deaths from Negligence, Incompetence</a></li>
+          <li><a href="#3-deaths-occurring-in-police-custody" id="markdown-toc-3-deaths-occurring-in-police-custody">3) Deaths Occurring in Police Custody</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<h1 id="about-the-database">About the Database</h1>
+
+<p>Police officers regularly face no consequences for killing members of marginalized communities.   Hundreds have died at the hands of police in the last decade and nothing has been done about it.  Police institutions have a vested interest in maintaining their status a heavily armed domestic military force.  The government has a vested interest in maintaining status quo.  It is not surprising a publicly maintained, publicly accessible record of deaths resulting from police action or inaction does not exist for Canada.  But it is an abject failure on the part of Governance.  Some attempts have been made at compiling records.</p>
+
+<h2 id="about-the-data">About the Data</h2>
+
+<p>This dataset was compiled and is currently maintained by June Skeeter: june.skeeter@ubc.ca  Contact me if you have any questions, comments, or concerns.  I am white settler and immigrant from the United States, working as GIS instructor at UBC.  I’ve complied this data because it is an important issue that does not get the attention it deserves.</p>
+
+<h3 id="positoinality-statement">Positoinality Statement</h3>
+
+<p>At 19, I (June Skeeter) was charged with “possession of a controlled dangerous substance” (0.5 grams of marijuana) by the state of Maryland, USA.  Before that point, I did not fear the police, my whiteness shielded me from their harassment.  But after being labeled a “criminal”, I did get a glimpse how police treatment differed.  Police would pull me over and detain me without cause while they brought in dogs to search my vehicle.  On one occasion an officer approached with his hand on his holster, ready to draw.  If I were black, the pistol would likely have been drawn and I may have been shot.  Moving to Canada, where my “crime” is not a crime, I thought “This place is better than that”.  But I could not have been farther from the truth.  I fell for a narrative that has been crafted Canadian institutions, that police violence is “just and American issue”.  The reality, is that there has been an alarming increase in deaths from police encounter across Canada in recent years.  My motivation for creating this dataset is to increase awareness and work to end police violence.</p>
+
+<h1 id="deadly-force">Deadly Force</h1>
+
+<p>The most comprehensive publicly available dataset on police killings in Canada is the <a href="https://newsinteractives.cbc.ca/fatalpoliceencounters/">Deadly Force database</a> was collected by the Canadian Broadcast Corporation (CBC).  Initially published in 2018, it was updated July 23, 2020.</p>
+
+<h2 id="lack-of-access-and-transparency">Lack of Access and Transparency</h2>
+
+<p>The CBC would not share their original dataset from the 2018 article that had location based information.  However, they had previously shared it with <a href="https://www.pivotlegal.org/17_years_of_police_violence_in_canada">Pivot Legal</a>.  I reached out to Pivot Legal, and they were willing to share it with me.</p>
+
+<h2 id="the-cbc-dataset-is-highly-flawed">The CBC Dataset is Highly Flawed</h2>
+
+<p>1) The CBC has not: disclosed the specifics of their methodology, defined what qualifies as a police killing or a police-involved death, or provided sources for their data.</p>
+
+<p>2) The data are not regularly updated.  The dataset was initially published in <a href="https://newsinteractives.cbc.ca/longform-custom/deadly-force">2018</a>, but was not updated again for two and a half years. The updates coincided with media attention surrounding the Black Lives Matter protests in summer 2020, and to date the CBC has no plans of updating it further.</p>
+
+<p>3) There are many missing/incomplete records in their data.</p>
+
+<ul>
+  <li>
+    <p>The CBC database has missing incidents entirely, including: multiple shootings, tazings, and beatings, a death from a police dog, and <a href="https://www.canadaland.com/podcast/the-police-4-starlight-tours/">starlight tours</a>.  A starlight tour is when police abduct Indigenous individuals and drop them off in rural areas.  When done in the winter, some victims freeze to death.</p>
+  </li>
+  <li>
+    <p>I asked the CBC why the starlight tour deaths of Rodney Naistus and Lawrence Wegner in January and February 2000 at the hands Saskatoon Police officers were not included in the database.</p>
+    <ul>
+      <li><em>“While their deaths were very likely a result of starlight tours by the Saskatoon police, they were not added to the database because there is no record of police officers picking them up. The inquests into their deaths were also inconclusive. Because of the lack of definitive proof, it was decided not to include them in the database.”</em></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Their response highlights why we cannot rely on a news corporation (especially one funded by the government) to collect and disseminate this type of information.</p>
+
+<h1 id="what-other-information-is-available">What Other Information is Available?</h1>
+
+<h2 id="killer-cops-canada">Killer Cops Canada</h2>
+
+<p><a href="https://killercopscanada.wordpress.com/">Killercopscanada</a> is a word press blog with posts reporting on police killings <strong>and</strong> police-involved deaths.  The blog was started in 2015, but some posts report on historical incidents including a few dating back to the early 1900’s.  The blog is run by an anonymous user, thus far we have not reached out to them.  We have however, written some code to download the posts and parse them using keyword searches to compile them into an indexed dataset of records.</p>
+
+<h2 id="lacrap">laCRAP</h2>
+
+<p><a href="https://www.lacrap.org/">laCRAP</a> is a francophone organization that maintains a list of police involved deaths dating back to 1987.  The list includes victims names and ages, the date of incidents and the “circumstances of the death” (Intervention, In-Custody, Suicide, and Inaction).  The list is grouped by city/province, with only the largest cities (Toronto, Montreal, Ottawa, Edmonton, and Vancouver) listed.  The list is posted on their website, and is not easily downloadable.  However, we have similarly used python to download and parse the list from their webpage.  We have yet to contact this organization either, but intend to reach out shortly.</p>
+
+<!-- 
+## Georgia Straight
+
+Yet to be incorporated.
+ -->
+
+<h1 id="expanding-the-dataset">Expanding the Dataset</h1>
+
+<h2 id="validating-and-updating">Validating and Updating</h2>
+
+<p>Using the Deadly Force dataset as a starting point, we have incorporated the killercopscanada and laCRAPdatasets by cross referencing for matching records.  We have added the missing incidents and updated missing information in the CBC data.  This database uses a We need a broader, more inclusive account of all deaths that are occurring as a result police <strong>action or inaction</strong>.  In addition to killings during arrests by on duty officers, this record includes:</p>
+
+<h3 id="1-killings-by-off-duty--ex-police-officers">1) Killings by off-duty &amp; ex police officers</h3>
+<ul>
+  <li>Domestic violence rates among police families are <a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">two to four</a> times higher than they are in the general public.
+    <ul>
+      <li>At least four Canadian police have killed their partners since 2000 <a href="https://www.thestar.com/news/2007/10/31/wills_found_guilty_of_murdering_mistress.html">1</a> <a href="https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/">2</a> <a href="https://www.cbc.ca/news/canada/ex-rcmp-officer-convicted-of-murder-1.305479">3</a> <a href="https://www.cbc.ca/news/canada/edmonton/former-mountie-found-not-criminally-responsible-in-wife-s-death-1.1304062">4</a></li>
+      <li>At least one death from a drunk off-duty officer striking a pedestrian. <a href="https://killercopscanada.wordpress.com/2019/10/31/killer-cop-justin-holz-gets-30-months-for-killing-cody-severight-in-2017/">1</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="2-deaths-from-negligence-incompetence">2) Deaths from Negligence, Incompetence</h3>
+<ul>
+  <li>There are multiple incidents of deaths from police-involved car crashes. <a href="https://www.cbc.ca/news/canada/montreal/man-dies-police-custody-puvirnituq-1.4091914">1</a> <a href="https://barrie.ctvnews.ca/pedestrian-struck-and-killed-by-an-unmarked-opp-vehicle-in-midland-1.5124667?cache=">2</a> <a href="https://www.bei.gouv.qc.ca/actualites/detail/mise-a-jour-concernant-levenement-survenu-a-mont-laurier-le-13-octobre-lidentite-du-civil-decede.html">3</a>
+    <ul>
+      <li>Including a <a href="https://killercopscanada.wordpress.com/2018/12/15/killer-cop-patrick-ouellet-gets-8-months-for-killing-five-year-old-nicholas-thorne-belance/">five year old boy</a> who was killed by an officer in an unarmed vehicle going double the speed limit.</li>
+    </ul>
+  </li>
+  <li><a href="https://en.wikipedia.org/wiki/Death_of_Regis_Korchinski-Paquet">Falls</a> or suicides during police encounters are a frequent occurrence.</li>
+</ul>
+
+<h3 id="3-deaths-occurring-in-police-custody">3) Deaths Occurring in Police Custody</h3>
+<ul>
+  <li>There are many records of individuals in police custody being denied or delayed medical care.
+    <ul>
+      <li>In one horrific case, an Indigenous man from <a href="https://www.cbc.ca/news/canada/north/paul-kayuryuk-baker-lake-inquest-1.4231300">Baker Lake, NU</a> was found unconscious after suffering a stroke.  The police assumed he was intoxicated and kept him in a jail cell overnight.</li>
+    </ul>
+  </li>
+  <li>Suicides in police custody are <a href="https://www.theglobeandmail.com/news/politics/womans-death-in-custody-exposes-indigenous-policing-issues/article32694835/">oftentimes preventable</a>.</li>
+  <li>Two men burned to death in a jail cell while being held for public intoxication at the <a href="https://www.cbc.ca/news/canada/kashechewan-fire-inquest-calls-for-more-funds-for-police-stations-training-1.819764">Kashechewan First Nation police detachment</a>.</li>
+</ul>
+
+:ET
