@@ -8,6 +8,8 @@ nav_order: 1
 # Police Killings and Police Involved Deaths in Canada
 {: .no_toc }
 
+Police officers regularly face no consequences for killing members of the public.   Hundreds have died at the hands of police in the last decade and little has been done about it.  Police institutions have a vested interest in maintaining their status a heavily armed domestic military force and the government has a vested interest in maintaining status quo.  It is not surprising a publicly maintained, transparent record of deaths resulting from police action or inaction does not exist in Canada.  However, it is an abject failure on the part of government and police institutions.  This project is an attempt to work towards promoting greater transparency, with the intention of advocating for accountability and helping to minimize future incidences of police violence.  
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -46,6 +48,8 @@ Ontario and Quebec have the highest numbers, but if normalizing by population hi
 
 ## Point Locations
 {: .no_toc }
+
+These location data will be matched with census data to help fill in missing details in the database.
 
 <div style="overflow: hidden;
   padding-top: 60%;
