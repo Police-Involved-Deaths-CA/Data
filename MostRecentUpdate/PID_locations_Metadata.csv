@@ -5,7 +5,7 @@
       https://killercopscanada.wordpress.com/,
       https://www.lacrap.org/,
       https://nccabc.ca/wp-content/uploads/2015/02/nccabc_aboriginaldeathsincustody.pdf"
-2,Notes:,"These point locations have been geocoded using the location data in the primary sources, the geocoded results are tntaive and still require further validation"
+2,Notes:,"These point locations have been geocoded (WGS 1984) using the location data in the primary sources, the geocoded results are tntaive and still require further validation"
 3,Created by,June Skeeter
 4,Other Info,"Police_Killings_Locations contains only locations with addresses information,
      it is not yet fully complete.  Points were geocoded using mapbox"
